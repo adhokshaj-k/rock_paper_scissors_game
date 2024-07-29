@@ -139,3 +139,4 @@ if (human_score===5) {
     console.log("Game Over");
 }
 
+//UI
