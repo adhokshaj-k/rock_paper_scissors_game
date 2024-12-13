@@ -56,7 +56,7 @@ rock-paper-scissors/
 
 ## Demo
 
-[Live Demo](#) (Replace this with a link to your hosted project if available, e.g., GitHub Pages)
+[Live Demo](https://adhokshaj-k.github.io/rock_paper_scissors_game/)
 
 ## Learning Outcomes
 
